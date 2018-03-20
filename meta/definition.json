@@ -192,7 +192,7 @@
         "description": "This comprehensive Microsoft Word 2016 training course will teach you how to design and customize professional documents using the world's most popular word processing application, specifically you will learn: how to customize header and footers, automatically create bibliographies, how to design professional resumes, advanced formatting techniques, and much more!",
         "thumbnailsmall": "cover.png",
         "title": "Go! With Office 2016 – Comprehensive",
-        "code": "go!withoffice2016–comprehensive",
+        "code": "gowithoffice2016comprehensive",
         "producttype": "courseware",
         "model": {
             "type": "ittoolscourse",
