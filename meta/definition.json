@@ -191,14 +191,15 @@
         "author": "John Roe",
         "description": "This comprehensive Microsoft Word 2016 training course will teach you how to design and customize professional documents using the world's most popular word processing application, specifically you will learn: how to customize header and footers, automatically create bibliographies, how to design professional resumes, advanced formatting techniques, and much more!",
         "thumbnailsmall": "cover.png",
-        "title": "Go! With Office 2016 – Comprehensive",
-        "code": "gowithoffice2016comprehensive",
+        "title": "GO! with Microsoft Word 2016 Comprehensive",
+        "code": "CFFGS5294U",
         "producttype": "courseware",
         "model": {
             "type": "ittoolscourse",
             "textbookISBN": "9852147848",
-            "series": "MyLab IT - Exploring",
-            "application": "Excel"
+            "textbook": "GO! with Microsoft Word 2016 Comprehensive",
+            "series": "GO!",
+            "application": "Word"
         }
     },
     "resources": {
